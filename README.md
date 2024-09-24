@@ -3,7 +3,7 @@
 Charles Newri A. Ragos
  **9-Lewis**
 
- # My Hobbies
+# My Hobbies
 
  1. Playing Video Games
 
