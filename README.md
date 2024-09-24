@@ -33,7 +33,5 @@ Contact me!
 
 ---
 
-# Honorable Mention\
 
-[Spotify](https://open.spotify.com/track/5NvOZCjZaGGGL597exlQWv?si=14ffcd2f3cdc4db5)
 
