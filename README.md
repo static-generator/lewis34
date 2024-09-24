@@ -2,6 +2,9 @@
 
 Charles Newri A. Ragos
  **9-Lewis**
+Topaz St., Lomeda Subd., San Felipe, Naga City
+
+
 
 # My Hobbies
 ---
@@ -17,7 +20,12 @@ Charles Newri A. Ragos
  3. Excercising
     ![Excercise](https://wpassets.trainingpeaks.com/wp-content/uploads/2021/06/16152950/21126-Blog-1200x675-1.jpg "Biking")
 
+---
 
+Contact me!
+
+- [GMAIL](cragos@gbox.adnu.edu.ph)
+- Phone Number: 0969-XXX-XXXX
 
 
 
