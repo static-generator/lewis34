@@ -5,4 +5,4 @@ Charles Newri A. Ragos
 
  # My Hobbies
 
- ![Death Stranding] ()
+ ![Death Stranding] (/static-generator/lewis34/blob/main/Death%20Stranding.jpg)
