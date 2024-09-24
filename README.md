@@ -27,5 +27,13 @@ Contact me!
 - [GMAIL](https://mail.google.com/mail/u/0/#search/cragos%40gbox.adnu.edu.ph?compose=new)
 - Phone Number: 0969-XXX-XXXX
 
+---
+- [Facebook]
+- [Instagram]
 
+---
+
+# Honorable Mention\
+
+[Spotify](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5NvOZCjZaGGGL597exlQWv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
 
