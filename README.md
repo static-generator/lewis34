@@ -16,3 +16,8 @@ Charles Newri A. Ragos
 
  3. Excercising
     ![Excercise](https://wpassets.trainingpeaks.com/wp-content/uploads/2021/06/16152950/21126-Blog-1200x675-1.jpg "Biking")
+
+
+
+
+![Excercise](https://i.pinimg.com/originals/8a/8b/27/8a8b2781551437b052d0ce67c355188e.gif "Biking")
