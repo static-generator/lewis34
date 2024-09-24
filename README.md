@@ -5,4 +5,5 @@ Charles Newri A. Ragos
 
  # My Hobbies
 
- 1. Playing Video Games ![Death Stranding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfJstIQdwfWkxo_pzzSaGdbsMRk9IhnG8wcTebRnSPEdvV6ZK)
+ 1. Playing Video Games
+    ![Death Stranding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfJstIQdwfWkxo_pzzSaGdbsMRk9IhnG8wcTebRnSPEdvV6ZK)
