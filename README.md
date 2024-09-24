@@ -20,4 +20,4 @@ Charles Newri A. Ragos
 
 
 
-![Excercise](https://i.pinimg.com/originals/8a/8b/27/8a8b2781551437b052d0ce67c355188e.gif "Biking")
+
