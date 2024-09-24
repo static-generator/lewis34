@@ -7,4 +7,4 @@ Charles Newri A. Ragos
 
  1. Playing Video Games
 
-    ![Death Stranding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfJstIQdwfWkxo_pzzSaGdbsMRk9IhnG8wcTebRnSPEdvV6ZK <img src="image.png" width="200" height="100">)
+    ![Death Stranding](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgfJstIQdwfWkxo_pzzSaGdbsMRk9IhnG8wcTebRnSPEdvV6ZK)
