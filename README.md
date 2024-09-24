@@ -24,7 +24,7 @@ Topaz St., Lomeda Subd., San Felipe, Naga City
 
 Contact me!
 
-- [GMAIL](cragos@gbox.adnu.edu.ph)
+- [GMAIL]([cragos@gbox.adnu.edu.ph](https://mail.google.com/mail/u/0/#search/cragos%40gbox.adnu.edu.ph?compose=new))
 - Phone Number: 0969-XXX-XXXX
 
 
