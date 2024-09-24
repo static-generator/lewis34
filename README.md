@@ -1,5 +1,4 @@
 # lewis34
 
-# Hello there!
-
-### I am Charles Newri A. Ragos
+# Charles Newri A. Ragos
+## 9-Lewis
